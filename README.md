@@ -12,7 +12,7 @@ For detailed Documentation, visit the link
 
 ## Screenshots
 
-[App Screenshot](https://drive.google.com/drive/folders/1ofstSiHJkORq9j4f5ahnKl8-1OUVWJAF?usp=share_link)
+[App Screenshot](https://drive.google.com/drive/folders/1svzWPKFo3P5QnMBmICIGjYT7duA0ILi-)
 
 
 ## Features
